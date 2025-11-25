@@ -1,0 +1,4 @@
+repository "ShootingRange/ShootingRange 2025-11-25_17-37-53@20067536652774@cloud"
+  path "/"
+    smartbranch "/main/KamlotBranch"  
+     
